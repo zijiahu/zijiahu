@@ -19,13 +19,11 @@ Here are some ideas to get you started:
 <!--<p>
   <img align="left" height="190" src="./zijiahu.JPG">
 </p>-->
-🤖 Senior studying Computer Science at New York Univesity
+💻 Software Engineer with a strong capability and passion in Web Development, Computer Networks, and Android Development 
 
 🌈 Pronouns: She/Her/Hers
 
-📺 Big fan of *The Office*, best show ever!!!
-
-🍳 Cooking enthusiast! I consider cooking one of the most satisfying activity.
+🎶 Big fan of comedy shows, musicals, movies, and cooking!
 
 📫 Feel free to shoot me an email at zijia.hu@nyu.edu
 
@@ -34,7 +32,7 @@ Here are some ideas to get you started:
 
 ## Currently
 
-📖 Reading *What Narcissism Means to Me*
+📖 Reading existentialism, ethics, and Japanese literature
 
-📺 Watching *Stranger Things*
+📺 Watching/Rewatching comedies! (*Parks and Recreation*, *Brooklyn 99*, *the Office*...)
 
