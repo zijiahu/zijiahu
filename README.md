@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </p>-->
 💻 Software Engineer with a strong capability and passion in Web Development, Computer Networks, and Android Development 
 
-🌈 Pronouns: She/Her/Hers
+🌈 Pronouns: She/They
 
 🎶 Big fan of comedy shows, musicals, movies, and cooking!
 
