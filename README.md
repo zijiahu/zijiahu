@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 <!--<p>
   <img align="left" height="190" src="./zijiahu.JPG">
 </p>-->
-💻 Software Engineer with a strong capability and passion in Web Development, Computer Networks, and Android Development 
+💻 Software Engineer with a strong capability and passion in Web Development and Visualization
 
-🌈 Pronouns: She/They
+🌈 Pronouns: They/Them
 
 🎶 Big fan of comedy shows, musicals, movies, and cooking!
 
@@ -32,7 +32,5 @@ Here are some ideas to get you started:
 
 ## Currently
 
-📖 Reading existentialism, ethics, and Japanese literature
-
-📺 Watching/Rewatching comedies! (*Parks and Recreation*, *Brooklyn 99*, *the Office*...)
+📖 Reading existentialism and Japanese literature
 
